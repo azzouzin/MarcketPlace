@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "330044050606",
+    "project_id": "souqplace-371920",
+    "storage_bucket": "souqplace-371920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330044050606:android:1e03d78eb05d28de37b13f",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330044050606-6pj3vbmqrn2qndasdhui790748636l5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_commerce",
+            "certificate_hash": "234bae11d4e383cc9c4e416cd3a177213f4f71e3"
+          }
+        },
+        {
+          "client_id": "330044050606-2fc6n3u9j09baocie64hh1kpmeftcvss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy-xVvXxqyj9bYfcwBcOmqYs740CEgt-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330044050606-2fc6n3u9j09baocie64hh1kpmeftcvss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
